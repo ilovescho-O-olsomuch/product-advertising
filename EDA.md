@@ -84,3 +84,5 @@ print(correlation_with_sales)
 * Billboards 和 Social Media 也值得投入，可以结合其他广告形式增强影响力。
 * Google Ads 和 Influencer Marketing 效果较弱，可能需要优化广告内容、目标受众或营销策略，以提高转化率。
 ```
+
+### 数据可视化
