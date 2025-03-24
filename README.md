@@ -50,9 +50,10 @@
 
 ---
 
-### 数据可视化-POWERBI
+### 数据可视化-PYTHON/POWERBI
 
 ![数据可视化](https://github.com/ilovescho-O-olsomuch/product-advertising/blob/main/%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96.png)
+![数据可视化](https://github.com/ilovescho-O-olsomuch/product-advertising/blob/main/powerbiadvertise.png)
 
 **技术栈**：Python/Pandas/Statsmodels/Matplotlib/SHAP  
 
